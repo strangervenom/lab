@@ -245,8 +245,8 @@ endipresult() {
 		"tag": "select",
 		"outbounds": [
 			"auto",
-			"IP->Iran, Yotube:kolandone",
-			"IP->Main, Yotube:kolandone"
+			"Yotube:kolandone",
+			"Yotube:kolandone"
 		],
 		"default": "auto"
 		},
@@ -254,15 +254,15 @@ endipresult() {
 		"type": "urltest",
 		"tag": "auto",
 		"outbounds": [
-			"IP->Iran, Yotube:kolandone",
-			"IP->Main, Yotube:kolandone"
+			"Yotube:kolandone",
+			"Yotube:kolandone"
 		],
 		"url": "http://cp.cloudflare.com/",
 		"interval": "10m0s"
 		},
 		{
 		"type": "wireguard",
-		"tag": "IP->Iran, Yotube:kolandone",
+		"tag": "Yotube:kolandone",
 		"local_address": [
 			"172.16.0.2/32",
 			"'$publicKey'"
