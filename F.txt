@@ -1,0 +1,2 @@
+warp://6j92Y5sb-0Dax69i1-9Qoy54s7@162.159.192.10:1010?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.10:1010?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://5cI84rp7-13i6Zr4w-u541LkY8@[2606:4700:d0::3b3a:aa96:9b95:9e65]:903?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.0:2408?ifp=10-20&ifps=20-60&ifp=5-10#Germany
