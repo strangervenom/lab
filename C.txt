@@ -1,0 +1,6 @@
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m3#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m1#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m2#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m4#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m5#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@[2606:4700:d0::2549:6e74:9112:b6e0]:7152?ifp=40-80&ifps=10-20&ifpd=4-8&ifpm=m6#m3&&detour=warp://p2@188.114.97.170:894#warp in warp
